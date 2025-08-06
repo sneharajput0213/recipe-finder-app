@@ -34,7 +34,7 @@ Search your favorite meals and get their ingredients, instructions, and image â€
 
 ## ðŸ“¸ Preview
 
-![App Screenshot](images/Screenshot 2025-08-06 142150.png)
+![App Screenshot](screenshot.png)
 
 ---
 
