@@ -19,7 +19,7 @@ Search your favorite meals and get their ingredients, instructions, and image â€
 
 ## ğŸš€ Demo
 
-
+[click here for live demo](https://sneharajput0213.github.io/recipe-finder-app/)
 
 ---
 
